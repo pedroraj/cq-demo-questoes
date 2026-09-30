@@ -6,7 +6,12 @@
     {
       "name": "Demonstração",
       "color": "blue1",
-      "description": "Questões para a demonstração do canal-questoes"
+      "description": "Questões gerais para a demonstração do canal-questoes"
+    },
+    {
+      "name": "Organização de computadores",
+      "color": "orange1",
+      "description": "Exemplos no contexto de organização de computadores"
     }
   ],
   "tags": [
@@ -14,6 +19,11 @@
       "name": "demo",
       "color": "gray1",
       "description": "Questão de demonstração"
+    },
+    {
+      "name": "orgcomp",
+      "color": "orange2",
+      "description": "Organização de computadores"
     }
   ]
 }

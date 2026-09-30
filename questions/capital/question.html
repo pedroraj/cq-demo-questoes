@@ -1,10 +1,10 @@
 <pl-question-panel>
-  <p>Qual é a capital do Brasil?</p>
+  <p>Qual é a capital {{params.estado}}?</p>
 </pl-question-panel>
 
-<pl-multiple-choice answers-name="resposta">
-  <pl-answer correct="true">Brasília</pl-answer>
-  <pl-answer correct="false">Rio de Janeiro</pl-answer>
-  <pl-answer correct="false">São Paulo</pl-answer>
-  <pl-answer correct="false">Salvador</pl-answer>
+<pl-multiple-choice answers-name="capital">
+  <pl-answer correct="true">{{params.certa}}</pl-answer>
+  <pl-answer correct="false">{{params.errada1}}</pl-answer>
+  <pl-answer correct="false">{{params.errada2}}</pl-answer>
+  <pl-answer correct="false">{{params.errada3}}</pl-answer>
 </pl-multiple-choice>
