@@ -1,0 +1,19 @@
+{
+  "uuid": "0838f88b-9eb2-4a63-8c34-b684ef2f215e",
+  "name": "CQ-DEMO",
+  "title": "canal-questoes: questões de demonstração",
+  "topics": [
+    {
+      "name": "Demonstração",
+      "color": "blue1",
+      "description": "Questões para a demonstração do canal-questoes"
+    }
+  ],
+  "tags": [
+    {
+      "name": "demo",
+      "color": "gray1",
+      "description": "Questão de demonstração"
+    }
+  ]
+}
